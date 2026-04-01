@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Hari
 
 <p align="center">
-  <!-- 将下方的 username= 替换为你的 GitHub 真实用户名 -->
   <img src="https://komarev.com/ghpvc/?username=song52wow&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -51,23 +50,15 @@
 ### 📊 GitHub Stats (我的开源指纹)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=song52wow&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=song52wow&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=song52wow&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=song52wow&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=song52wow&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
-
----
-
-### 🚀 Highlights & Engineering Milestones (高光时刻)
-
-- 📦 **NPM & 开源生态输出：** 提取和标准化了支持包括硬件验证隔离环境和冷钱包桥接协议在内的通用多链引擎连接器 (`@funcx/connector`)，以及缝合 React-Vue 这两大框架宇宙环境隔离的标杆插件 (`privy-veaury-vue`)。
-- 🤖 **Telegram 全栈开发体系引擎拓荒：** 首创式地摒弃 Node.js 中间件遗留短板，构筑起了一套全盘依托 Deno + Oak 架构的 Telegram 交互路由底座中间件矩阵，平稳驱动起囊括大型游戏/社区型 Mini App 服务系统的高并发。
-- 🧩 **极致的 Monorepo 工程掌控度：** 处理并打通多重复杂的包体交叉依赖地狱。常态化指挥大型 Monorepo 工作流（如基于 8 端应用核心网关 + 7 套共治逻辑调度库复合巨型工程体）。
 
 <!-- <br>
 <p align="center">

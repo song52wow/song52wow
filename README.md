@@ -6,23 +6,15 @@
 
 ### 👨‍💻 About Me
 
-我是一名拥有 **8 年以上经验的资深全栈工程师 / 架构师**。专注于探索 **Web3 基础设施设**、**大型 AI 数据工作台矩阵**、**跨端生态（Telegram Mini App / Chrome 插件）**。
-
-- 🔭 **目前主要工作：** 搭建基于异构多网络（Ethereum / Cosmos / Tron）的 Web3 互通基础设施、AI 数据前端工程治理。
-- 🌱 **当前研究探索方向：** AI Agent 的多端注入、LLM 数据结构化集成管理体系、跨框架高并发基建（如 Deno 生产化体系）。
-- 🛠️ **我的技术核弹域：** 大型 Monorepo (Turborepo + pnpm) 架构、从移动端 WebGL (Pixi/Three.js) 图形学到高并发全域微服务体系与 K8s 集群维护。
-- 📫 **联系我：** song52wow@gmail.com
+我是一名拥有 **8 年以上经验的资深前端开发**。专注于探索 **Web3 基础设施设**、**大型 AI 数据工作台矩阵**、**跨端生态（Telegram Mini App / Chrome 插件）**。
 
 ---
-
-### 💻 My Tech Box (技术栈雷达)
 
 <div align="center">
 
 **Languages & Core / 核心语种**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend & Graphics / 大前端与交互架构**<br>
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -44,10 +36,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
-
----
-
-### 📊 GitHub Stats (我的开源指纹)
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=song52wow&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
